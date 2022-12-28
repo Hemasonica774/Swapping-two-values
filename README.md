@@ -1,4 +1,5 @@
 # Swapping-two-values
+
 ## AIM:
 
 To write a python program for swapping of two values
@@ -38,8 +39,7 @@ print('Swapped values are:',input1,input2)
 ```
 
 ## output:
-
-![OUTPUT](swapping%20.png)
+![](./swapping%20.png)
 
 
 ## RESULT:
